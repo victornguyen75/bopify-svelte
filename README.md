@@ -2,6 +2,8 @@
 
 Spotify But Bop-ier
 
+⚠️ You will need your own client id from the Spotify API and docs. ⚠️
+
 ## Set Up
 
 1. Clone the root project with `git clone https://github.com/victornguyen75/bopify-svelte.git` in the terminal
