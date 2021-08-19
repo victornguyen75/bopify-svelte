@@ -1,0 +1,22 @@
+{
+  "name": "bopify-svelte",
+  "version": "1.0.0",
+  "description": "Spotify But Bop-ier",
+  "main": "index.js",
+  "scripts": {
+    "pull": "git submodule update --init --recursive",
+    "update": "git submodule update --recursive --remote",
+    "install": "cd client && yarn install && cd ../server && yarn install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victornguyen75/bopify-svelte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victornguyen75/bopify-svelte/issues"
+  },
+  "homepage": "https://github.com/victornguyen75/bopify-svelte#readme",
+  "dependencies": {}
+}
